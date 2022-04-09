@@ -1,1 +1,1 @@
-.
+## NSTU Practical Assignments
